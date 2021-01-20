@@ -10,7 +10,9 @@ BaselineOfMLGraph >> baseline: spec [
 	spec
 		for: #(common)
 		do: [ 
-			spec package: 'MLGraph'.
+			spec 
+				package: 'MLGraph';
+				package: 'MLGraph-Tests'.
 
 			spec 
 				group: 'Core' 						with: #('MLGraph');		
