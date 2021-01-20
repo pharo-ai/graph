@@ -1,10 +1,10 @@
-## Description
-
-Graph algorithms for Pharo (Dijkstra, Kruskal, etc)
-
 ![Build status](https://github.com/pharo-ai/graph/workflows/CI/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/pharo-ai/graph/badge.svg?branch=master)](https://coveralls.io/github/pharo-ai/graph?branch=master)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/pharo-ai/graph/master/LICENSE)
+
+## Description
+
+Graph algorithms for Pharo (Dijkstra, Kruskal, etc)
 
 ## How to install it?
 
